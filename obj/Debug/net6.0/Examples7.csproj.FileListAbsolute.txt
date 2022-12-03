@@ -1,0 +1,15 @@
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\bin\Debug\net6.0\Examples7.exe
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\bin\Debug\net6.0\Examples7.deps.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\bin\Debug\net6.0\Examples7.runtimeconfig.json
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\bin\Debug\net6.0\Examples7.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\bin\Debug\net6.0\Examples7.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.csproj.AssemblyReference.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.AssemblyInfoInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.AssemblyInfo.cs
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.csproj.CoreCompileInputs.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\refint\Examples7.dll
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.pdb
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\Examples7.genruntimeconfig.cache
+C:\Users\Павлуха\Desktop\Обучение\Знакомство с языками программирования (семинары)\Урок 7. Двумерные массивы\Examples7\obj\Debug\net6.0\ref\Examples7.dll
